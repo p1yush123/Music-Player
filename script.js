@@ -11,7 +11,7 @@ const cover = document.querySelector('#cover')
 
 const songs = ['Better Now','Daru Badnaam','Dusk Till Dawn','Ilahi','The Nights']
 
-let songIndex = 3
+let songIndex = 0
 
 loadSong(songs[songIndex])
 

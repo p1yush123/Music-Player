@@ -8,7 +8,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Lato', sans-serif;
-    background-image: linear-gradient(0deg , rgb(0,0,128), 23.8%, rgb(135,206,235) 92%);
+    background-image: linear-gradient(0deg ,	#00FFFF	 , 23.8%,	#00BFFF 92%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 .music-container {
     background-color: #fff;
     border-radius: 15px;
-    box-shadow: 0 20px 20px 0 rgba(0,0,128, 0.6);
+    box-shadow: 0 20px 20px 0 #00BFFF	;
     display: flex;
     padding: 20px 30px;
     position: relative;
